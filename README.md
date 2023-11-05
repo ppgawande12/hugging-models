@@ -48,19 +48,19 @@ In summary, LLMs represent a significant advancement in natural language process
     This involves the synthesis of images based on the provided text.
 
 ## Techniques and Models
-    Several techniques and models are employed for text-to-image generation:
+Several techniques and models are employed for text-to-image generation:
     
-      ### Generative Adversarial Networks (GANs)
-          GANs are commonly used for generating images from text descriptions. 
-          The process involves a generator network that creates images and a discriminator network that assesses the generated images against the text input.
+### Generative Adversarial Networks (GANs)
+GANs are commonly used for generating images from text descriptions. 
+The process involves a generator network that creates images and a discriminator network that assesses the generated images against the text input.
     
-      ### Attention Mechanisms
-          Attention mechanisms, especially in conjunction with deep neural networks, 
-          aid in the generation process by focusing on relevant parts of the image to correlate with the given text.
+### Attention Mechanisms
+Attention mechanisms, especially in conjunction with deep neural networks, 
+aid in the generation process by focusing on relevant parts of the image to correlate with the given text.
     
-      ### Conditional Variational Autoencoders (CVAEs)
-          CVAEs are used for generating images conditioned on the input text. 
-          These models learn a latent representation of the text and use it to generate corresponding images.
+### Conditional Variational Autoencoders (CVAEs)
+CVAEs are used for generating images conditioned on the input text. 
+These models learn a latent representation of the text and use it to generate corresponding images.
 
 ## Datasets
       Datasets used for training text-to-image generation models include:
