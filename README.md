@@ -76,10 +76,9 @@ Several techniques and models are employed for text-to-image generation:
 
 ## GitHub Repositories
     
-    Explore these repositories for code and resources related to text-to-image generation:
-    
-    - [Text2Image-GAN](https://github.com/username/Text2Image-GAN): Repository focusing on GAN-based text-to-image generation.
-    - [CVAE-ImageGen](https://github.com/username/CVAE-ImageGen): Repository dedicated to Conditional Variational Autoencoder image generation.
+Explore these repositories for code and resources related to text-to-image generation:
+- [Text2Image-GAN](https://github.com/username/Text2Image-GAN): Repository focusing on GAN-based text-to-image generation.
+- [CVAE-ImageGen](https://github.com/username/CVAE-ImageGen): Repository dedicated to Conditional Variational Autoencoder image generation.
 
 ## Conclusion
         Text-to-image generation is a challenging yet promising field within AI, offering significant potential in various industries. 
