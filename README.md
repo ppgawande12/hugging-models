@@ -42,12 +42,12 @@ In summary, LLMs represent a significant advancement in natural language process
 
 
 
-**# Text-to-Image Generation**
+# Text-to-Image Generation
 
-Text-to-image generation is an area of AI research that focuses on creating visual content from textual descriptions.
-This involves the synthesis of images based on the provided text.
+    Text-to-image generation is an area of AI research that focuses on creating visual content from textual descriptions.
+    This involves the synthesis of images based on the provided text.
 
-**## Techniques and Models**
+## Techniques and Models
     Several techniques and models are employed for text-to-image generation:
     
       ### Generative Adversarial Networks (GANs)
@@ -75,12 +75,12 @@ This involves the synthesis of images based on the provided text.
         - **Conceptual Design:** Visualizing designs based on descriptive text in architectural or artistic fields.
 
 ## GitHub Repositories
+    
+    Explore these repositories for code and resources related to text-to-image generation:
+    
+    - [Text2Image-GAN](https://github.com/username/Text2Image-GAN): Repository focusing on GAN-based text-to-image generation.
+    - [CVAE-ImageGen](https://github.com/username/CVAE-ImageGen): Repository dedicated to Conditional Variational Autoencoder image generation.
 
-Explore these repositories for code and resources related to text-to-image generation:
-
-- [Text2Image-GAN](https://github.com/username/Text2Image-GAN): Repository focusing on GAN-based text-to-image generation.
-- [CVAE-ImageGen](https://github.com/username/CVAE-ImageGen): Repository dedicated to Conditional Variational Autoencoder image generation.
-
-**## Conclusion**
-    Text-to-image generation is a challenging yet promising field within AI, offering significant potential in various industries. 
-    As techniques and models continue to evolve, exploring and contributing to related GitHub repositories can provide valuable insights and advancements in this area.
+## Conclusion
+        Text-to-image generation is a challenging yet promising field within AI, offering significant potential in various industries. 
+        As techniques and models continue to evolve, exploring and contributing to related GitHub repositories can provide valuable insights and advancements in this area.
