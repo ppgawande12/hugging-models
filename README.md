@@ -50,29 +50,29 @@ In summary, LLMs represent a significant advancement in natural language process
 ## Techniques and Models
 Several techniques and models are employed for text-to-image generation:
     
-### Generative Adversarial Networks (GANs)
-GANs are commonly used for generating images from text descriptions. 
-The process involves a generator network that creates images and a discriminator network that assesses the generated images against the text input.
-    
-### Attention Mechanisms
-Attention mechanisms, especially in conjunction with deep neural networks, 
-aid in the generation process by focusing on relevant parts of the image to correlate with the given text.
-    
-### Conditional Variational Autoencoders (CVAEs)
-CVAEs are used for generating images conditioned on the input text. 
-These models learn a latent representation of the text and use it to generate corresponding images.
+        ### Generative Adversarial Networks (GANs)
+        GANs are commonly used for generating images from text descriptions. 
+        The process involves a generator network that creates images and a discriminator network that assesses the generated images against the text input.
+            
+        ### Attention Mechanisms
+        Attention mechanisms, especially in conjunction with deep neural networks, 
+        aid in the generation process by focusing on relevant parts of the image to correlate with the given text.
+            
+        ### Conditional Variational Autoencoders (CVAEs)
+        CVAEs are used for generating images conditioned on the input text. 
+        These models learn a latent representation of the text and use it to generate corresponding images.
 
 ## Datasets
       Datasets used for training text-to-image generation models include:
-          -**COCO (Common Objects in Context):**  Contains images annotated with captions.
-          -**Visual Genome:**  A collection of images with detailed descriptions and relationships.
-          -**CUB-200-2011: ** Caltech-UCSD Birds-200-2011 dataset with bird images and descriptions.
+          -COCO (Common Objects in Context):  Contains images annotated with captions.
+          -Visual Genome:  A collection of images with detailed descriptions and relationships.
+          -CUB-200-2011: Caltech-UCSD Birds-200-2011 dataset with bird images and descriptions.
 
 ## Applications
       Text-to-image generation has various practical applications, including:
-        - **Creative Content Generation:** Creating visual content for stories or creative projects based on textual descriptions.
-        - **E-Commerce:** Generating product images based on textual descriptions for online shopping platforms.
-        - **Conceptual Design:** Visualizing designs based on descriptive text in architectural or artistic fields.
+        - Creative Content Generation: Creating visual content for stories or creative projects based on textual descriptions.
+        - E-Commerce: Generating product images based on textual descriptions for online shopping platforms.
+        - Conceptual Design: Visualizing designs based on descriptive text in architectural or artistic fields.
 
 ## GitHub Repositories
     
