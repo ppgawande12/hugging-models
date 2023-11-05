@@ -62,19 +62,19 @@ This involves the synthesis of images based on the provided text.
           CVAEs are used for generating images conditioned on the input text. 
           These models learn a latent representation of the text and use it to generate corresponding images.
 
-**## Datasets**
+## Datasets
       Datasets used for training text-to-image generation models include:
           -**COCO (Common Objects in Context):**  Contains images annotated with captions.
           -**Visual Genome:**  A collection of images with detailed descriptions and relationships.
           -**CUB-200-2011: ** Caltech-UCSD Birds-200-2011 dataset with bird images and descriptions.
 
-**## Applications**
+## Applications
       Text-to-image generation has various practical applications, including:
         - **Creative Content Generation:** Creating visual content for stories or creative projects based on textual descriptions.
         - **E-Commerce:** Generating product images based on textual descriptions for online shopping platforms.
         - **Conceptual Design:** Visualizing designs based on descriptive text in architectural or artistic fields.
 
-**## GitHub Repositories**
+## GitHub Repositories
 
 Explore these repositories for code and resources related to text-to-image generation:
 
