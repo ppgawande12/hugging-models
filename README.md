@@ -1,5 +1,5 @@
 # Output of text to image 
-![GitHub Logo](text_to_image_output.png)
+![GitHub Logo](https://github.com/ppgawande12/hugging-models/blob/d99401a6262f1e24732de384da2a43ab2891131d/text_to_image_output.png)
 
 
  ## LLM (Large Language Models):
