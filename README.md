@@ -1,4 +1,4 @@
-#Output of text to image 
+# Output of text to image 
 ![GitHub Logo](text_to_image_output.png)
 
 
